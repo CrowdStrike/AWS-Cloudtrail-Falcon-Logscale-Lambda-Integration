@@ -2,7 +2,7 @@
 
 [![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20%40CrowdStrike&style=social&url=https%3A%2F%2Ftwitter.com%2FCrowdStrike)](https://twitter.com/CrowdStrike)
 
-# FalconPy Community Code of Conduct
+# Community Code of Conduct
 
 ## Our Pledge
 
@@ -64,7 +64,7 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-falconpy@crowdstrike.com or https://crowdstrike.ethicspoint.com/.
+solutions.architecture@crowdstrike.com or https://crowdstrike.ethicspoint.com/.
 
 All complaints will be reviewed and investigated promptly and fairly.
 
